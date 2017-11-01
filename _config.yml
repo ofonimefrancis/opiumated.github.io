@@ -36,19 +36,7 @@ disqus:
 # if you don't have any of social below, comment the line
 facebook: jiggaseige
 twitter: opiumated
-# google: mygoogle
-#instagram: lauragift_
-# pinterest: mypinterest
-# linkedin: mylinkedin
-# youtube: myyoutube
-# spotify: myspotify
 github: opiumated
-# lastfm: mylastfm
-# stackoverflow: 7044681/mystackoverflow
-# quora: userquora
-# reddit: username
-#medium: username
-# vimeo: myvimeo
 email: ofonime.usoro@gloo.ng
 
 authors:
@@ -57,7 +45,7 @@ authors:
         bio: A girl that loves coding and coffee.
         external-image: false
         picture: assets/images/myAvatar.jpg
-        twitter: lauragift21
+        twitter: opiumated
     
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
